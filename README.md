@@ -47,6 +47,9 @@ The contribution of external professionals and academicians will help to clarify
 | Week | Date | Subject | Assignments |
 |:---:|:-------------|:-------------| -----:|
 | 1 | [Feb 5<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/feb5tue.md) | Intro | 
+| 1 | Feb 8<br>Fri | Arduino ecology | 
+| 1 | Feb 12<br>Tue | Arduino LED controls and buttons | 
+| 1 | [Feb 15<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/feb15fri.md) | Game Review and Sketching | 
 
 
 ## Ethical Rules
