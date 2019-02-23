@@ -53,6 +53,7 @@ https://www.polygon.com/gaming/2012/3/7/2851124/how-to-properly-describe-a-video
 
 ---
 **Examples**
+
 *DIABLO* by Blizzard (Condor Inc)
 Diablo is a role playing game wherein a player creates a single character and guides him through a dungeon in attempt to find and destroy 'Diablo', the devil himself.
 
