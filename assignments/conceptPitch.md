@@ -52,6 +52,12 @@ https://www.gamesbrief.com/2013/06/describe-your-game-better-hook-more-players-m
 https://www.polygon.com/gaming/2012/3/7/2851124/how-to-properly-describe-a-video-game-a-helpful-lesson-from-gdc*
 
 ---
+**Recommended Resources**
+
+Read: [I Have No Words & I Must Design: Toward a Critical Vocabulary for Games](http://www.costik.com/nowords2002.pdf)
+
+Watch: [Indie Game: The Movie](https://www.netflix.com/title/70229918)
+
 **Examples**
 
 *DIABLO* by Blizzard (Condor Inc)
