@@ -6,7 +6,7 @@ The focus of your presentation is the general idea of the game itself and for th
 - introduction: a board including title and a one sentence description* (optional teasing visuals)  
 - detailed description: scenario if story-centred, descriptive if focused on the game mechanics  
 - moodboard: references for aesthetic  
-- "techboard": references for mechanics and game style
+- "techboard": references for mechanics and game style include short-videos-in-loop (indesign doesn't like gif unfortunately)
 - storyboard: storyboard with references to mechanics  
 - final look: one image representing a preview of the game look (even in a more sketch formed considering the short time available)  
 
