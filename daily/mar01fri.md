@@ -23,3 +23,4 @@ One of the most useful tools for designing Adventure Games: Puzzle Dependency Ch
 
 Game Dependency Graph: The Secret of Monkey Island - https://networkscience.wordpress.com/2019/01/18/game-dependency-graph-the-secret-of-monkey-island/
 
+Tetris Skill Chain Diagram - http://lunar.lostgarden.com/files/Tetris%20Skill%20Chain.pdf
