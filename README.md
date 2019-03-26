@@ -47,13 +47,15 @@ The contribution of external professionals and academicians will help to clarify
 | Week | Date | Subject | Assignments |
 |:---:|:-------------|:-------------| -----:|
 | 1 | [Feb 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/feb5tue.md) | Intro | |
-| 1 | Feb 8<br>Fri | Arduino ecology | |
+| 1 | [Feb 8<br>Fri]((https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/feb8fri.md)) | Arduino ecology | |
 | 2 | Feb 12<br>Tue | Arduino LED controls and buttons | |
-| 2 | [Feb 15<br>Fri ](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/feb15fri.md) | Game Review and Sketching | |
+| 2 | Feb 15<br>Fri | Game Review and Sketching | |
 | 3 | Feb 19<br>Tue | Game Design Concept Reviews |  |
 | 3 | Feb 22<br>Fri | Game Design Concept Reviews, Arduino Processing Communication |  |
-| 4 | Feb 26<br>Tue | Game Design Crit | [Concept Pitch](https://github.com/ixd-izmir/ixd3102s19/blob/master/assignments/conceptPitch.md) |
+| 4 | [Feb 26<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/feb26tue.md) | Game Design Crit | [Concept Pitch](https://github.com/ixd-izmir/ixd3102s19/blob/master/assignments/conceptPitch.md) |
 | 4 | [Mar 1<br>Fri](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar01fri.md) | Game Design Reviews |  |  
+| 5 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
+
 
 
 ## Ethical Rules
