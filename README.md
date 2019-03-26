@@ -47,7 +47,7 @@ The contribution of external professionals and academicians will help to clarify
 | Week | Date | Subject | Assignments |
 |:---:|:-------------|:-------------| -----:|
 | 1 | [Feb 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/feb5tue.md) | Intro | |
-| 1 | [Feb 8<br>Fri]((https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/feb8fri.md)) | Arduino ecology | |
+| 1 | [Feb 8<br>Fri](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/feb8fri.md) | Arduino ecology | |
 | 2 | Feb 12<br>Tue | Arduino LED controls and buttons | |
 | 2 | Feb 15<br>Fri | Game Review and Sketching | |
 | 3 | Feb 19<br>Tue | Game Design Concept Reviews |  |
