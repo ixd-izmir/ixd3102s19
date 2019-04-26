@@ -53,25 +53,25 @@ The contribution of external professionals and academicians will help to clarify
 | 3 | Feb 19<br>Tue | Game Design Concept Reviews |  |
 | 3 | Feb 22<br>Fri | Game Design Concept Reviews, Arduino Processing Communication |  |
 | 4 | [Feb 26<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/feb26tue.md) | Game Design Crit | [Concept Pitch](https://github.com/ixd-izmir/ixd3102s19/blob/master/assignments/conceptPitch.md) |
-| 4 | [Mar 1<br>Fri](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar01fri.md) | Game Design Reviews |  |  
-| 5 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 5 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 6 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 6 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 7 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 7 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 8 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 8 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 9 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 9 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 10 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 10 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 11 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 11 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 12 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 12 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 13 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
-| 13 | [Mar 5<br>Tue](https://github.com/ixd-izmir/ixd3102s19/blob/master/daily/mar05tue.md) | Game Design Structure |  |  
+| 4 | [Mar 1<br>Fri] | Game Design Reviews |  |  
+| 5 | [Mar 5<br>Tue] | Game Design Structure |  |  
+| 5 | [Mar 8<br>Fri] |  |  |  
+| 6 | [Mar 12<br>Tue] |  |  |  
+| 6 | [Mar 15<br>Fri] |  |  |  
+| 7 | [Mar 19<br>Tue] |  |  |  
+| 7 | [Mar 22<br>Fri] |  |  |  
+| 8 | [Mar 26<br>Tue] |  |  |  
+| 8 | [Mar 29<br>Fri] |  |  |  
+| 9 | [Apr 2<br>Tue] |  |  |  
+| 9 | [Apr 5<br>Fri] |  |  |  
+| 10 | [Apr 9<br>Tue] |  |  |  
+| 10 | [Apr 12<br>Fri] |  |  |  
+| 11 | [Apr 16<br>Tue] |  |  |  
+| 11 | [Apr 19<br>Fri] |  |  |  
+| 12 | [Apr 23<br>Tue] |  |  |  
+| 12 | [Apr 26<br>Fri] | Concept Jury |  |  
+| 13 | [Apr 30<br>Tue] |  |  |  
+| 13 | [May 3<br>Fri] |  |  |  
 | 14 | Mar 5<br>Tue |  |  |  
 | 14 | Mar 5<br>Tue | Jury |  |  
 
