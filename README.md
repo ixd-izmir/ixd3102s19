@@ -73,7 +73,7 @@ The contribution of external professionals and academicians will help to clarify
 | 13 | [Apr 30<br>Tue]() |  |  |  
 | 13 | [May 3<br>Fri]() | [Enclosure ideas for your project] (https://itp.nyu.edu/fab/intro_fab/week-4-enclosures/)  |  |  
 | 14 | May 7<br>Tue |  |  |  
-| 14 | May 10<br>Tue |  |  |  
+| 14 | May 10<br>Fri |  |  |  
 | 15 | May 14<br>Tue |  |  |  
 | 16 | May 24<br>Fri | Jury |  |  
 
