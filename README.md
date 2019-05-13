@@ -75,7 +75,7 @@ The contribution of external professionals and academicians will help to clarify
 | 14 | May 7<br>Tue |  |  |  
 | 14 | May 10<br>Fri |  |  |  
 | 15 | May 14<br>Tue |  |  |  
-| 16 | May 24<br>Fri | Jury |  |  
+| 16 | May 27<br>Fri | Jury @Muziksev |  |  
 
 
 
